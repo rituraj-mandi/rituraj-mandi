@@ -7,8 +7,6 @@
 
 - I’m currently learning **Machine Learning**
 
-- All of my projects are available at [https://riturajmandi.vercel.app/](https://riturajmandi.vercel.app/)
-
 - LinkedIn Profile **www.linkedin.com/in/rituraj-mandi**
 
 - How to reach me **ritu12mandi@gmail.com**
