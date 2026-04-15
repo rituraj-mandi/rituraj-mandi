@@ -3,6 +3,8 @@
 <h1>Hi 👋, I'm Rituraj</h1>
 <h3>A passionate developer from India</h3>
 
+<img src="https://github-profile-trophy.vercel.app/?username=rituraj-mandi&theme=darkhub&no-frame=true&margin-w=10" />
+
 </div>
 
 ---
@@ -95,6 +97,6 @@
 
 ## 📈 Contributions
 
-<img src="https://ghchart.rshah.org/ffffff/rituraj-mandi" />
+<img src="https://raw.githubusercontent.com/rituraj-mandi/rituraj-mandi/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
