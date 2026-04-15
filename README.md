@@ -1,23 +1,115 @@
-<h1 align="center">Hi, I'm RITURAJ</h1>
-<h3 align="center">A passionate CODER from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rituraj-mandi" alt="rituraj-mandi" /></a> </p>
+<h1>Hi 👋, I'm Rituraj</h1>
+<h3>A passionate developer from India</h3>
 
-- I’m currently working on [flowSYNC](https://github.com/rituraj-mandi/flowSYNC)
+<img src="https://github-profile-trophy.vercel.app/?username=rituraj-mandi&theme=darkhub&no-frame=true&margin-w=10" />
 
-- I’m currently learning **Machine Learning**
+</div>
 
-- LinkedIn Profile **www.linkedin.com/in/rituraj-mandi**
+---
 
-- How to reach me **ritu12mandi@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rituraj-mandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rituraj-mandi" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💻 Currently working on MYSELF.  
+🧠 Learning **Machine Learning & AI for Robotics**  
+⚙️ Backend + AI + Robotics enthusiast  
+📍 India  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj-mandi&" alt="rituraj-mandi" /></p>
+</div>
 
+---
+
+<div align="center">
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj-mandi)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritu12mandi@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+
+### 🌐 Web
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+
+### 🧰 Tools & Tech
+
+![Arduino](https://img.shields.io/badge/ARDUINO-000000?style=flat&logo=arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=flat&logo=mathworks&logoColor=white)
+![Blender](https://img.shields.io/badge/BLENDER-000000?style=flat&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rituraj-mandi&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-mandi&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com?user=rituraj-mandi&theme=dark&hide_border=true&background=000000" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rituraj-mandi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+![](https://komarev.com/ghpvc/?username=rituraj-mandi&color=000000&style=flat-square&label=Profile+Views)
+
+</div>
