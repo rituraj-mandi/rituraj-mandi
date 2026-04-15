@@ -3,8 +3,6 @@
 <h1>Hi 👋, I'm Rituraj</h1>
 <h3>A passionate developer from India</h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rituraj-mandi&theme=darkhub&no-frame=true&margin-w=10" />
-
 </div>
 
 ---
@@ -54,6 +52,7 @@
 ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=flat&logo=mathworks&logoColor=white)
 ![Blender](https://img.shields.io/badge/BLENDER-000000?style=flat&logo=blender&logoColor=white)
+![KiCad](https://img.shields.io/badge/KICAD-000000?style=flat&logo=kicad&logoColor=white)
 
 </div>
 
@@ -94,22 +93,8 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📈 Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rituraj-mandi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-![](https://komarev.com/ghpvc/?username=rituraj-mandi&color=000000&style=flat-square&label=Profile+Views)
+<img src="https://ghchart.rshah.org/ffffff/rituraj-mandi" />
 
 </div>
