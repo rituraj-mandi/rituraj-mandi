@@ -81,15 +81,6 @@ I'm driven by curiosity and the desire to solve complex problems with clean, mai
 
 ---
 
-## Currently Learning
-
-- **Machine Learning for Robotics** — Deep learning, computer vision, control systems
-- **Advanced Backend Architecture** — Microservices, distributed systems, optimization
-- **Systems Programming** — Performance optimization, memory management
-- **Cloud & DevOps** — Scalability, deployment strategies
-
----
-
 ## Connect With Me
 
 I'm always interested in collaboration, learning, and building something amazing together.
