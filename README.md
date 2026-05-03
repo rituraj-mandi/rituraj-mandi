@@ -69,11 +69,11 @@ I'm driven by curiosity and the desire to solve complex problems with clean, mai
 ## GitHub Analytics
 
 <table>
-<tr>
+<!-- <tr>
 <td width="50%" align="center">
 <b>GitHub Stats</b><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=rituraj-mandi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-</td>
+</td> -->
 <td width="50%" align="center">
 <b>Contribution Streak</b><br><br>
 <img src="https://streak-stats.demolab.com?user=rituraj-mandi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
