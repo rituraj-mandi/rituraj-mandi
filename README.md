@@ -72,7 +72,7 @@ I'm driven by curiosity and the desire to solve complex problems with clean, mai
 <tr>
 <td width="50%" align="center">
 <b>GitHub Stats</b><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=rituraj-mandi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+<img src="[https://github-readme-stats.vercel.app/api?username=rituraj-mandi](https://github-readme-stats-sigma-five.vercel.app)&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
 <b>Contribution Streak</b><br><br>
